@@ -1,0 +1,4 @@
+interface:
+  display_name: "Saturn 繁中漢化工作流"
+  short_description: "將 Saturn 遊戲翻譯為繁體中文並驗證可回填成品"
+  default_prompt: "使用 $saturn-localization 將這款 Saturn 遊戲製作為可驗收的繁體中文版本。"

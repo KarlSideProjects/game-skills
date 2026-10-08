@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="260" viewBox="0 0 960 260" role="img" aria-labelledby="title desc" shape-rendering="crispEdges">
+  <title id="title">Saturn Localization Quest</title>
+  <desc id="desc">Original pixel arcade banner for the Saturn localization skill collection.</desc>
+  <rect width="960" height="260" fill="#101329"/>
+  <path d="M0 210h960v50H0z" fill="#232650"/>
+  <path d="M0 224h960v4H0zM0 244h960v4H0z" fill="#373d77"/>
+  <g fill="#55f6d1">
+    <path d="M72 52h20v12H72zM84 40h24v12H84zM96 28h32v12H96zM120 16h44v12h-44zM152 28h32v12h-32zM176 40h24v12h-24zM196 52h20v12h-20z"/>
+    <path d="M60 64h168v8H60zM68 72h152v8H68zM84 80h120v8H84z"/>
+  </g>
+  <g fill="#ffcf5c">
+    <path d="M772 52h12v12h-12zM820 28h12v12h-12zM864 68h12v12h-12zM744 112h12v12h-12zM892 124h12v12h-12zM798 156h12v12h-12zM850 112h12v12h-12z"/>
+  </g>
+  <g fill="#ff6b89">
+    <path d="M730 166h36v12h-36zM754 154h36v12h-36zM778 142h36v12h-36zM802 130h36v12h-36zM826 118h36v12h-36zM850 106h36v12h-36zM874 94h36v12h-36z"/>
+  </g>
+  <text x="480" y="108" fill="#f5f4ff" text-anchor="middle"
+        font-family="monospace" font-size="44" font-weight="700" letter-spacing="2">GAME SKILLS</text>
+  <text x="480" y="158" fill="#55f6d1" text-anchor="middle"
+        font-family="monospace" font-size="20" font-weight="700" letter-spacing="1">INSERT SKILL · START QUEST</text>
+  <g fill="#101329">
+    <path d="M268 198h420v4H268zM232 222h496v4H232z"/>
+  </g>
+  <g fill="#ffcf5c">
+    <path d="M244 196h12v8h-12zM700 196h12v8h-12zM208 220h12v8h-12zM740 220h12v8h-12z"/>
+  </g>
+</svg>

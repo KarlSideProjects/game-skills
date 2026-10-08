@@ -1,0 +1,27 @@
+# Game and disc data
+*.bin
+*.iso
+*.cue
+*.chd
+*.img
+*.rom
+*.sav
+*.state
+*.cartdram
+
+# Generated and sensitive project data
+**/__pycache__/
+*.py[cod]
+**/translation-cache*
+**/*translation*.jsonl
+**/output/
+**/english-extracted/
+**/runtime/
+**/artifacts/
+*.delta
+*.sdelta
+
+# Local tools and editor state
+.DS_Store
+.idea/
+.vscode/
